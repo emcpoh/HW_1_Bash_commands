@@ -163,3 +163,15 @@ Then you need to *quit* the file, press `q` button.
     kapli@mcpoh MINGW64 ~/Desktop/dir_1/dir_2
     $ date
     Tue Apr 18 22:13:35 RTZ 2023
+## 1*. Send an http request to the server
+By deafult, the curl command used for send the `GET` request.
+
+        kapli@mcpoh MINGW64 ~/Desktop/dir_1
+        $ curl http://162.55.220.72:5005/terminal-hw-request
+        % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                         Dload  Upload   Total   Spent    Left  Speed
+        100   232  100   232    0     0   1850      0 --:--:-- --:--:-- --:--:--  1856<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+        <title>404 Not Found</title>
+        <h1>Not Found</h1>
+        <p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+        
