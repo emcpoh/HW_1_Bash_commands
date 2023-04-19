@@ -175,6 +175,7 @@ By deafult, the curl command used for send the `GET` request.
         <h1>Not Found</h1>
         <p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
 ## 2*. Write a script that will automatically execute the steps 3, 4, 5, 6, 7, 8, 13.
+You can find my script [here](https://github.com/emcpoh/HW_1_Bash_commands/blob/main/my_script.sh "My script is located here")
 The result of script work:
 
         kapli@mcpoh MINGW64 ~/Desktop
