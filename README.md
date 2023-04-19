@@ -174,4 +174,19 @@ By deafult, the curl command used for send the `GET` request.
         <title>404 Not Found</title>
         <h1>Not Found</h1>
         <p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
-        
+## 2*. Write a script that will automatically execute the steps 3, 4, 5, 6, 7, 8, 13.
+The result of script work:
+
+        kapli@mcpoh MINGW64 ~/Desktop
+        $ ./my_script.sh
+        total 4
+        drwxr-xr-x 1 kapli 197609 0 Apr 19 20:21 .
+        drwxr-xr-x 1 kapli 197609 0 Apr 19 20:21 ..
+        drwxr-xr-x 1 kapli 197609 0 Apr 19 20:21 dir_21
+        drwxr-xr-x 1 kapli 197609 0 Apr 19 20:21 dir_22
+        drwxr-xr-x 1 kapli 197609 0 Apr 19 20:21 dir_23
+        -rw-r--r-- 1 kapli 197609 0 Apr 19 20:21 file1.txt
+        -rw-r--r-- 1 kapli 197609 0 Apr 19 20:21 file2.txt
+        -rw-r--r-- 1 kapli 197609 0 Apr 19 20:21 file3.txt
+        -rw-r--r-- 1 kapli 197609 0 Apr 19 20:21 file4.json
+        -rw-r--r-- 1 kapli 197609 0 Apr 19 20:21 file5.json
