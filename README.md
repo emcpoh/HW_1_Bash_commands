@@ -1,4 +1,4 @@
-# HW_1_Bash_commands #
+# HW_1_Terminal #
 Here are the results of my first homework.
 
 # First part of the first task: #
